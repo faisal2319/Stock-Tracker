@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "faisal-alyahya-malaa-project",
-    "slug": "faisal-alyahya-malaa-project"
+    "slug": "faisal-alyahya-malaa-project",
+    "android": {
+      "package": "com.anonymous.faisalalyahyamalaaproject"
+    }
   }
 }

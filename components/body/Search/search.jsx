@@ -3,7 +3,6 @@ import {View, Text, ActivityIndicator, TouchableOpacity, FlatList} from 'react-n
 import {useRouter} from 'expo-router'
 import styles from './search.style'
 import StockCard from "../Stocks/StockCard";
-import useFetch from "../../../hook/useFetch";
 import useStocksQuery from "../../../hook/useStocksQuery";
 import { MMKV } from "react-native-mmkv";
 

@@ -1,8 +1,7 @@
-import { Stack } from "expo-router";
+import { Stack } from 'expo-router'
 
-const Layout = () =>{
-    return <Stack onLayoutRootiew/>
+const Layout = () => {
+  return <Stack onLayoutRootiew/>
 }
 
-
-export default Layout;
+export default Layout

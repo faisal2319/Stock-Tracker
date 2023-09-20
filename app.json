@@ -11,6 +11,9 @@
     "slug": "faisal-alyahya-malaa-project",
     "android": {
       "package": "com.anonymous.faisalalyahyamalaaproject"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.faisalalyahyamalaaproject"
     }
   }
 }
